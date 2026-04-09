@@ -19,32 +19,32 @@ Interested in AI for Climate, Earth observation, Space, and Accessibility
 ## Featured Projects
 
 * **VLM Modality Bias Analysis**
-  Investigating hallucination and modality bias in vision-language models for accessibility
+  - Investigating hallucination and modality bias in vision-language models for accessibility
 
 * **sEMG Keystroke Prediction**
-  Hybrid deep learning models for decoding typing from biosignals
+  - Hybrid deep learning models for decoding typing from biosignals
 
 * **Climate Time Series Forecasting**
-  Predicting environmental patterns using ML + time series models
+  - Predicting environmental patterns using ML + time series models
 
 * **Sustainable Aviation Fuel Forecasting**
-  Modeling SAF demand for aviation decarbonization
+  - Modeling SAF demand for aviation decarbonization
 
 ---
 ## Research & Publications
 
 * **Analyzing Modality Bias in Vision-Language Models for Accessibility**
-  Investigates hallucination and modality bias in VLMs, with a focus on risks for blind and low-vision users
+  - Investigates hallucination and modality bias in VLMs, with a focus on risks for blind and low-vision users
   *(Manuscript in preparation)*
 
 * **Transformers in the Treetops: A Multi-Path AI Framework for Predicting Canopy Height Change**
-  Presented at AGU Fall Meeting (Dec 2025)
+  - Presented at AGU Fall Meeting (Dec 2025)
 
 * **Data Fusion Framework for Canopy Height Prediction Using Multimodal Earth Observations**
-  NASA Goddard Space Flight Center (Aug 2025) — Internal Research Symposium
+  - NASA Goddard Space Flight Center (Aug 2025) — Internal Research Symposium
 
 * **Data-Driven Insights into Sustainable Aviation: Forecasting Green Hydrogen and SAF Trends**
-  NASA Glenn Research Center (Dec 2024, May 2025) — Agency-wide presentations
+  - NASA Glenn Research Center (Dec 2024, May 2025) — Agency-wide presentations
 
 * **Contribution to: *Phenology in the Anthropocene***
   Song, Y. PhD Dissertation (2023)
