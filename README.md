@@ -1,10 +1,8 @@
 # Hi, I'm Nikhita!
 
-MS in Data Science @ UCLA
-
+M.S. in Data Science @ UCLA
 Former NASA Goddard and NASA Glenn Intern
-
-Interested in AI for climate, Earth observation, space, and accessibility
+Interested in AI for Climate, Earth observation, Space, and Accessibility
 
 ---
 
