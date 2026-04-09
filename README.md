@@ -41,10 +41,10 @@ Interested in AI for Climate, Earth observation, Space, and Accessibility
   Presented at AGU Fall Meeting (Dec 2025)
 
 * **Data Fusion Framework for Canopy Height Prediction Using Multimodal Earth Observations**
-* NASA Goddard Space Flight Center (Aug 2025) — Internal Research Symposium
+  NASA Goddard Space Flight Center (Aug 2025) — Internal Research Symposium
 
 * **Data-Driven Insights into Sustainable Aviation: Forecasting Green Hydrogen and SAF Trends**
-* NASA Glenn Research Center (Dec 2024, May 2025) — Agency-wide presentations
+  NASA Glenn Research Center (Dec 2024, May 2025) — Agency-wide presentations
 
 * **Contribution to: *Phenology in the Anthropocene***
   Song, Y. PhD Dissertation (2023)
