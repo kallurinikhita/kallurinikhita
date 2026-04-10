@@ -11,7 +11,7 @@ Interested in AI for Climate, Earth observation, Space, and Accessibility
 ## Current Focus
 
 * Multimodal AI & Vision-Language Models (VLMs)
-* Climate & Earth system forecasting
+* Earth system forecasting
 * Safe and accessible AI systems
 
 ---
@@ -74,4 +74,4 @@ Interested in AI for Climate, Earth observation, Space, and Accessibility
 
 ---
 
-Interested in working on problems at the intersection of AI, climate, space, and more!
+Interested in working on problems at the intersection of AI and scientific research applications!
